@@ -1,0 +1,12 @@
+# Ignore everything
+/*
+!.gitignore
+
+# Except for the files and folders we want to track
+!alacritty
+#!nvim
+!rofi
+!vifm
+!ranger
+!dwm
+!i3

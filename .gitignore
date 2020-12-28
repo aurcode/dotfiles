@@ -12,6 +12,6 @@
 !.xprofile
 !.xinitrc
 !.Xresources
-#!.config
+!.config
 #!.vim
 !.local
