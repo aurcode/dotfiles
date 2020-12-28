@@ -1,0 +1,12 @@
+export PATH=$HOME/.local/bin:$PATH
+
+# Keyboard Layout
+setxkbmap es &
+# Composer
+picom &
+# Wallpaper
+feh --bg-fill file:///home/wyda/forksh.png &
+
+aw-qt &
+flameshot &
+alacritty &
