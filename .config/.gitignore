@@ -4,7 +4,7 @@
 
 # Except for the files and folders we want to track
 !alacritty
-#!nvim
+!nvim
 !rofi
 !vifm
 !ranger
